@@ -1,5 +1,25 @@
 # 💫 About Me:
-About Me<br><br>🧑‍💻 I’m currently working on<br><br>Cybersecurity projects (web app security, threat detection)<br>FullStack apps with cloud integration<br>Open-source projects in security & environmental tech<br>🤝 I’m looking for help with<br><br>Advanced AWS security (IAM, GuardDuty, Lambda)<br>Fine-tuning threat detection & response systems<br>Secure coding best practices in FullStack apps<br>🌱 I’m currently learning<br><br>Cloud Security & AWS Services<br>Advanced Web Security & Threat Modeling<br>MERN Stack with secure design patterns<br>💬 Ask me about<br><br>Web security, OWASP Top 10, & ethical hacking<br>Building secure FullStack apps<br>AWS services for secure & scalable apps<br>Nanoparticles & environmental tech<br>⚡ Fun fact<br><br>I enjoy hacking my own apps to make them stronger!<br>Big fan of blending cybersecurity with environmental science.
+Got it! Here’s a **more detailed version** that’s vertically shorter (more compact, fewer line breaks):
+
+---
+
+**About Me**
+
+🧑‍💻 I’m currently working on **Cyber Threat Detection System** using **AWS** & FullStack tools to detect and visualize web threats in real-time.
+
+🤝 I’m looking to collaborate on **cybersecurity projects (web app security, real-time threat detection)**, **cloud-native FullStack apps**, and **open-source projects in security, cloud, and environmental tech**.
+
+🤝 I’m looking for help with **advanced AWS security setups (IAM, GuardDuty, Lambda triggers)**, **optimizing threat detection logic (rules or ML)**, and **applying secure coding practices across the FullStack**.
+
+🌱 I’m currently learning **AWS security best practices**, **MERN Stack with secure design patterns**, **threat modeling & real-time detection techniques**, and **modern API security testing**.
+
+💬 Ask me about **web security fundamentals (OWASP Top 10, ethical hacking)**, **building secure FullStack apps**, **combining AWS services for secure apps**, and **nanoparticles & their environmental impact**.
+
+⚡ Fun fact: **I love hacking my own apps to find weaknesses before anyone else does!** Also passionate about blending **cybersecurity & environmental science** to tackle both digital and environmental threats.
+
+---
+
+This keeps it **compact vertically** while giving good detail. Want me to tweak it more?
 
 
 ## 🌐 Socials:
