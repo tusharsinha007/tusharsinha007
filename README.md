@@ -1,6 +1,4 @@
 # 💫 About Me:
----
-
 **About Me**
 
 🧑‍💻 I’m currently working on **Cyber Threat Detection System** using **AWS** & FullStack tools to detect and visualize web threats in real-time.
