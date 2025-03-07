@@ -1,6 +1,4 @@
 # 💫 About Me:
-Got it! Here’s a **more detailed version** that’s vertically shorter (more compact, fewer line breaks):
-
 ---
 
 **About Me**
